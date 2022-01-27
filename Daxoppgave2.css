@@ -1,0 +1,23 @@
+body{
+    background-color: cadetblue;
+}
+.startscreen{
+    background-color: white;
+    position: absolute;
+    width: 60%;
+    height: relative;
+    justify-content: center;
+    padding-top: 2%;
+    padding-bottom: 7%;
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-left: 19%;
+    text-align: center;
+    margin-top: 10%;
+}
+.startscreen p{
+   position: relative;
+   text-align: center;
+   width: 20%;
+   left: 40%;
+}
