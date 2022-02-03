@@ -35,7 +35,7 @@ setTimeout(
         luckyNumber();
         setInterval(() => {
             luckyNumber();
-        }, 20 * 1000
+        }, 60 * 1000
         );
     }
 );
