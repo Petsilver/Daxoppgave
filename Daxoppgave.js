@@ -37,6 +37,8 @@ setTimeout(
             luckyNumber();
         }, 60 * 1000
         );
-    }
+    },
+    (60 - new Date().getSeconds()) * 
+		1000,
 );
 
