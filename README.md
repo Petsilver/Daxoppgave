@@ -1,2 +1,3 @@
 # Daxoppgave
-This is the Web prototype for Daxoppgave den er ikke veldig dyp du kan skrive inn navnet ditt og det blir laget inne i en array. du kan se at navnet blir lagret i arrayen i consolet :)
+For å see denne netsiden online skriv 10.12.12.20 så kan du skrive ditt navn å se ditt lykketall for minuttet
+
